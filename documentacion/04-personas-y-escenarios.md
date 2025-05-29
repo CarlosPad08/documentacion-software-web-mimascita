@@ -1,4 +1,4 @@
-## Personas y Escenarios de Uso
+# Personas y Escenarios de Uso
 
 Con base en la investigación de usuarios, se han definido cuatro perfiles representativos (personas) que reflejan distintos tipos de usuarios que interactuarán con el software **MiMascota**. A continuación, se describen los perfiles junto con sus respectivos escenarios de uso, los cuales ilustran cómo estos usuarios interactúan con el sistema y el valor que obtienen de su uso.
 

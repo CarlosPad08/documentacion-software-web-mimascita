@@ -1,7 +1,4 @@
-
----
-
-## 🌍 15. Localización e Internacionalización – *MiMascota*
+# Localización e Internacionalización
 
 Con el objetivo de hacer **MiMascota** accesible a una audiencia global y culturalmente diversa, se ha implementado un sistema básico de **localización (l10n)** e **internacionalización (i18n)** que permite adaptar la interfaz de la aplicación a diferentes idiomas y contextos regionales.
 
@@ -39,3 +36,4 @@ Con el objetivo de hacer **MiMascota** accesible a una audiencia global y cultur
 
 ---
 
+### Pasar a la siguiente sección: [SEO](19-seo.md)

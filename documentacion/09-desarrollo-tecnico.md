@@ -1,4 +1,4 @@
-## Desarrollo técnico de la aplicación
+# Desarrollo técnico de la aplicación
 
 La aplicación **MiMascota** ha sido desarrollada como una aplicación web moderna, cumpliendo con los estándares actuales de desarrollo. A continuación, se describen las principales características técnicas del desarrollo:
 
@@ -11,8 +11,8 @@ La aplicación **MiMascota** ha sido desarrollada como una aplicación web moder
   - **React.js**: Biblioteca principal para el desarrollo del frontend.
   - **React Router**: Para la navegación entre vistas.
   - **Vite**: Herramienta de desarrollo y empaquetado rápido.
-  - **Tailwind CSS / CSS personalizado**: Para estilos consistentes y componentes reutilizables.
-  - **Librerías auxiliares** (si aplica): Ej. Axios para peticiones HTTP, Zustand/Redux para estado, etc.
+  - **CSS personalizado**: Para estilos consistentes y componentes reutilizables.
+  - **Librerías auxiliares** Axios para peticiones HTTP.
 
 - **Diseño responsivo**:
   - Toda la interfaz ha sido diseñada siguiendo principios de *responsive design*.

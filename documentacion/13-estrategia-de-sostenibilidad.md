@@ -1,7 +1,4 @@
-
----
-
-## 🔄 13. Estrategia de Sostenibilidad – *MiMascota*
+# Estrategia de Sostenibilidad – *MiMascota*
 
 Para garantizar la permanencia, utilidad y evolución de **MiMascota** a lo largo del tiempo, se plantea una estrategia de sostenibilidad basada en tres pilares fundamentales: retroalimentación del usuario, mantenimiento técnico y mejora continua.
 
@@ -48,3 +45,5 @@ Para garantizar la permanencia, utilidad y evolución de **MiMascota** a lo larg
 * Mantener la comunidad activa alrededor de la adopción responsable y el bienestar animal.
 
 ---
+
+### Pasar a la siguiente sección: [Seguridad](14-seguridad.md)

@@ -43,4 +43,4 @@ En lugar de desarrollar prototipos visuales en Figma, nuestro equipo adoptó una
 
 ---
 
-### Pasar a la siguiente sección: [7. Pruebas de usabilidad](07-pruebas-de-usabilidad.md)
+### Pasar a la siguiente sección: [Pruebas de usabilidad](07-pruebas-de-usabilidad.md)

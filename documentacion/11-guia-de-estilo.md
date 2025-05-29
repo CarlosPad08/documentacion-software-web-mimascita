@@ -35,6 +35,7 @@ Se emplean dos fuentes principales, elegidas por su legibilidad y estilo moderno
 ```css
 --font-heading: 'Montserrat', sans-serif;
 --font-body: 'Open Sans', sans-serif;
+```
 
 ---
 

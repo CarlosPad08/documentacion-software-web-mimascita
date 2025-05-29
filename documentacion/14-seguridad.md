@@ -1,6 +1,4 @@
----
-
-## 🔐 14. Implementación de Seguridad Básica – *MiMascota*
+# Implementación de Seguridad Básica
 
 La seguridad es un componente fundamental de **MiMascota**, especialmente por el manejo de datos personales de usuarios, veterinarias y fundaciones. Para garantizar la integridad y confidencialidad de la información, se han implementado medidas de seguridad esenciales que cumplen con los estándares mínimos recomendados para el software Mimascota.
 
@@ -45,5 +43,6 @@ La seguridad es un componente fundamental de **MiMascota**, especialmente por el
 
 ---
 
+### Pasar a la siguiente sección: [Optimizacion](15-optimizacion.md)
 
 

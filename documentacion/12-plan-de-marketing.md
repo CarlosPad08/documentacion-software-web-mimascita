@@ -1,6 +1,5 @@
----
 
-## 📣 12. Plan de Marketing Básico – *MiMascota*
+# Plan de Marketing Básico
 
 ### 🎯 Objetivo General
 
@@ -62,4 +61,4 @@ Desarrollar una estrategia de lanzamiento y promoción para **MiMascota**, una p
 
 ---
 
-
+### Pasar a la siguiente sección: [Estrategia de Sostenibilidad](13-estrategia-de-sostenibilidad.md)
