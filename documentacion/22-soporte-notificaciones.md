@@ -1,7 +1,4 @@
-
-### Pasar a la siguiente sección: [Metricas de Exito](23-metricas-de-exito.md)
-
-## 22. Soporte para notificaciones push
+# Soporte para notificaciones push
 
 La aplicación "MiMascota" incorpora soporte para notificaciones push basado en la infraestructura existente de componentes de alerta utilizados en otros flujos (por ejemplo, `SuccessAlert` y `ErrorAlert`).
 
@@ -13,3 +10,7 @@ La aplicación "MiMascota" incorpora soporte para notificaciones push basado en 
 - El diseño de las alertas push sigue la misma línea visual que otras alertas utilizadas en la aplicación, manteniendo coherencia de estilo.
 
 Esta implementación garantiza una experiencia consistente e intuitiva para el usuario, con notificaciones contextuales visibles directamente dentro de la aplicación web.
+
+---
+
+### Pasar a la siguiente sección: [Metricas de Exito](23-metricas-de-exito.md)

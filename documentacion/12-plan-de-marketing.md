@@ -1,4 +1,3 @@
-
 # Plan de Marketing Básico
 
 ### 🎯 Objetivo General

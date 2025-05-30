@@ -4,7 +4,7 @@ Con base en la investigación de usuarios, se han definido cuatro perfiles repre
 
 ---
 
-###Persona 1: Sofía, una jóven amante de los animales
+### Persona 1: Sofía, una jóven amante de los animales
 
 - **Edad:** 19 años  
 - **Ocupación:** Estudiante universitaria  
@@ -17,7 +17,7 @@ Sofia visita la plataforma desde su celular y navega fácilmente por la sección
 
 ---
 
-###Persona 2: Romeo, padre de familia responsable
+### Persona 2: Romeo, padre de familia responsable
 
 - **Edad:** 38 años  
 - **Ocupación:** Ingeniero de sistemas  
@@ -30,7 +30,7 @@ Romeo accede a la plataforma desde su computadora. Busca perros tranquilos y apt
 
 ---
 
-###Persona 3: Paula, voluntaria de un refugio
+### Persona 3: Paula, voluntaria de un refugio
 
 - **Edad:** 26 años  
 - **Ocupación:** Estudiante y voluntaria en un refugio de animales  

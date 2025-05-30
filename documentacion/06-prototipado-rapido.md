@@ -1,4 +1,4 @@
-# 6. Prototipado rápido
+# Prototipado rápido
 
 Aunque no se creó un prototipo formal en Figma o Adobe XD, el desarrollo frontend con React + Vite sirvió como prototipo funcional. Se realizaron componentes reutilizables, se implementaron vistas clave y se validó la experiencia de usuario directamente en el entorno web.
 

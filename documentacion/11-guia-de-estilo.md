@@ -1,4 +1,4 @@
-## Guía de estilo de diseño
+# Guía de estilo de diseño
 
 Con el fin de garantizar una interfaz coherente, accesible y visualmente agradable, se ha desarrollado una guía de estilo para la aplicación **MiMascota**, basada en buenas prácticas de diseño UX/UI. Esta guía define los elementos visuales clave que se aplican en todos los componentes de la interfaz.
 

@@ -1,7 +1,4 @@
-
-### Pasar a la siguiente sección: [Monetizacion](16-monetizacion.md)
-
-## 15. Optimización de rendimiento y carga
+# Optimización de rendimiento y carga
 
 La aplicación "MiMascota" ha sido optimizada para tiempos de carga rápidos y experiencia fluida del usuario. 
 
@@ -17,3 +14,5 @@ La aplicación "MiMascota" ha sido optimizada para tiempos de carga rápidos y e
 - Evaluación del tamaño del bundle mediante herramientas como `rollup-plugin-visualizer`.
 
 ---
+
+### Pasar a la siguiente sección: [Monetizacion](16-monetizacion.md)

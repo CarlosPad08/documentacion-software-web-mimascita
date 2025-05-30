@@ -1,4 +1,4 @@
-# 1. Definición del problema y usuarios objetivos
+# Definición del problema y usuarios objetivos
 
 Problema:
 Actualmente, muchas personas interesadas en adoptar mascotas tienen dificultades para encontrar un lugar confiable, con información clara, procesos definidos y soporte en línea. A su vez, los refugios enfrentan el reto de dar visibilidad a los animales disponibles y gestionar adecuadamente las solicitudes de adopción.

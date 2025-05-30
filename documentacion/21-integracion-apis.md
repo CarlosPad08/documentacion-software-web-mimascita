@@ -1,4 +1,4 @@
-# 21. Integración con APIs externas
+# Integración con APIs externas
 
 Nuestro backend se alojo en Render y actua como una API RESTful para mejorar la funcionalidad de nuestra aplicación del lado del cliente.
 

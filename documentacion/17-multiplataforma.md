@@ -1,7 +1,4 @@
-
-### Pasar a la siguiente sección: [Localizacion e Internacionalizacion](18-localizacion-internacionalizacion.md)
-
-## 17. Compatibilidad multiplataforma
+# Compatibilidad multiplataforma
 
 La aplicación "MiMascota" ha sido diseñada y construida para funcionar sin problemas en una variedad de dispositivos, navegadores y sistemas operativos, tanto de escritorio como móviles.
 
@@ -12,3 +9,7 @@ La aplicación "MiMascota" ha sido diseñada y construida para funcionar sin pro
 - El archivo `vite.config.js` no contiene restricciones ni configuraciones específicas que limiten la ejecución de la app en alguna plataforma.
 
 Estas medidas aseguran que la experiencia del usuario no varíe significativamente entre dispositivos o sistemas.
+
+---
+
+### Pasar a la siguiente sección: [Localizacion e Internacionalizacion](18-localizacion-internacionalizacion.md)

@@ -1,4 +1,4 @@
-# 5. Arquitectura de información y diseño de interacción
+# Arquitectura de información y diseño de interacción
 
 Sitemap (estructura general de navegación):
 ```

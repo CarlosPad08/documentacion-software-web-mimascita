@@ -1,4 +1,4 @@
-## Pruebas funcionales y técnicas
+# Pruebas funcionales y técnicas
 
 ### Pruebas funcionales
 

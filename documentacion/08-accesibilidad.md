@@ -1,7 +1,4 @@
-
-### Pasar a la siguiente sección: [Desarrollo Tecnico](09-desarrollo-tecnico.md)
-
-## 8. Accesibilidad e Inclusión
+# Accesibilidad e Inclusión
 
 La aplicación "MiMascota" ha sido desarrollada siguiendo principios de accesibilidad e inclusión para garantizar que cualquier persona, sin importar sus capacidades, pueda interactuar con ella de forma efectiva.
 
@@ -18,3 +15,5 @@ La aplicación "MiMascota" ha sido desarrollada siguiendo principios de accesibi
 - Revisión y adaptación de etiquetas semánticas y soporte para lectores de pantalla en todos los componentes interactivos.
 
 ---
+
+### Pasar a la siguiente sección: [Desarrollo Tecnico](09-desarrollo-tecnico.md)
