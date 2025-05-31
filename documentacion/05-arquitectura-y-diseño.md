@@ -32,8 +32,6 @@ Wireframes:
 ![Wireframe de la pantalla de veterinarias](./images/wireframe-veterinarias.png)
 #### Pantalla de guarderías.
 ![Wireframe de la pantalla de guarderías](./images/wireframe-guarderias.png)
-#### Pantalla de contacto.
-![Wireframe de la pantalla de contacto](./images/wireframe-contacto.png)
 
 ---
 
